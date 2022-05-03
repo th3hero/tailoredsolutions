@@ -13,7 +13,7 @@
                     <div class="card-header">{{ __('Student List') }}  <button type="button" id="" data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-primary float-end">Add Subject</button></div>
 
                     <div class="card-body">
-                       <table class="table table-hover table-striped">
+                       <table class="table table-hover table-striped ">
                            <thead>
                                <tr>
                                    <th>#</th>
