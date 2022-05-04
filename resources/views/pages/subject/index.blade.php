@@ -32,9 +32,7 @@
                                    </tr>
                                @endforeach
                                @else
-                               <tr>
-                                   <td colspan="4" class="text-danger text-center">No record found</td>
-                               </tr>
+                               <tr> </tr>
 
                                @endif
                            </tbody>
